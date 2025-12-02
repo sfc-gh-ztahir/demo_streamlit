@@ -1,7 +1,7 @@
 import streamlit as st
 from snowflake.snowpark.context import get_active_session
 
-st.set_page_config(page_title="DE Apps – App1", page_icon="❄️")
+st.set_page_config(page_title="DE Apps – App1-version2", page_icon="❄️")
 
 st.title("DE_APPS – App1 (Git + Snowflake Streamlit)")
 
